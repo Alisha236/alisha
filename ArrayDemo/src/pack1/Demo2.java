@@ -9,6 +9,7 @@ public class Demo2 {
 	
 	Arrays.sort(arr);
 	for (String str:arr){
+		
 		System.out.println(str);
 	}
 
